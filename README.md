@@ -42,4 +42,4 @@ Bearing has three kinds of faults: outer ring fault, inner ring fault, ball faul
 </div></br>
 
 ## Attention
-Cause test data cannot be uploaded due to file size limitation, if anyone wanna these data, you could drop the e-mail at 872838672@qq.com. 
+Cause test data cannot be uploaded due to file size limitation, if anyone wanna these data, just drop the e-mail at 872838672@qq.com. 
