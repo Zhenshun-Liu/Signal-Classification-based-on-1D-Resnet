@@ -7,30 +7,26 @@ Bearing has three kinds of faults: outer ring fault, inner ring fault, ball faul
 	  <th> </th>
 	  <th>Outer ring fault</th>
 	  <th>Inner ring fault</th> 
-    <th>Ball fault</th>
-    <th>Normal working</th>
+    	  <th>Ball fault</th>
+          <th>Normal working</th>
 	</tr >
 	<tr align="center">
-    <td>Diameter 1</td>
-    <td>1</td>
-    <td>2</td>
-    <td>3</td>
+          <td>Diameter 1</td>
+          <td>1</td>
+          <td>2</td>
+          <td>3</td>
 	  <td rowspan="3">0</td>
 	</tr>
 	<tr align="center">
-    <td>Diameter 2</td>
-    <td>4</td>
-    <td>5</td>
-    <td>6</td>
+          <td>Diameter 2</td>
+          <td>4</td>
+          <td>5</td>
+          <td>6</td>
 	</tr>
 	<tr align="center">
-    <td>Diameter 3</td>
-    <td>7</td>
-    <td>8</td>
-    <td>9</td>
-	</tr>
-	<tr>
-	    <td>CheckBox</td>
-	    <td>复选按钮</td>
+          <td>Diameter 3</td>
+          <td>7</td>
+          <td>8</td>
+           <td>9</td>
 	</tr>
 </table>
