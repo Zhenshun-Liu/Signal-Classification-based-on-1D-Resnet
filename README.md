@@ -30,3 +30,4 @@ Bearing has three kinds of faults: outer ring fault, inner ring fault, ball faul
            <td>9</td>
 	</tr>
 </table>
+## Structure of Network
