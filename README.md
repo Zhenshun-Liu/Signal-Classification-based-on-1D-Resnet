@@ -38,5 +38,5 @@ Bearing has three kinds of faults: outer ring fault, inner ring fault, ball faul
 
 ## classification result
 <div align=center>
-<img src="/Picture/2.png" />
+<img  width="300" height="300 src="/Picture/2.png" />
 </div></br>
